@@ -4,7 +4,7 @@
 
 The Pokeemerald Expansion is a collection of feature branches that can be integrated into existing [pokeemerald](https://github.com/pret/pokeemerald) projects.
 
-## What features are included?
+## Features
 - Upgraded battle engine.
     - Fairy Type.
     - Physical/Special/Status Category Split.
@@ -19,25 +19,40 @@ The Pokeemerald Expansion is a collection of feature branches that can be integr
     - New evolution methods.
     - Hidden Abilities data (How to make them available is up to the user).
 - Items from newer Generations and updated item effects for battle and field use.
+- 
 
 Certain mechanics, moves, abilities and species sprites are missing. For more information, see [the project's milestones](https://github.com/rh-hideout/pokeemerald-expansion/milestones).
 
 ### [Documentation on features can be found here](https://github.com/rh-hideout/pokeemerald-expansion/wiki)
 
-## Who maintains the project?
 
-The project was originally started by DizzyEgg alongside other contributors.
 
-The project has now gotten larger and DizzyEgg is now maintaining the project as part of the ROM Hacking Hideout community. Some members of this community are taking on larger roles to help maintain the project.
 
-### Please consider crediting the entire [list of contributors](https://github.com/rh-hideout/pokeemerald-expansion/wiki/Credits) in your project, as they have all worked hard to develop this project :)
+## Credits!
+littleh4ck - Coordinator
+de417 - Design ideas
 
-## Can I contribute even if I'm not a member of ROM Hacking Hideout?
 
-Yes! Contributions are welcome via Pull Requests and they will be reviewed by maintainers. Don't feel discouraged if we take a bit to review your PR, we'll get to it.
+### Pokeemerald-expansion fork
+DizzyEggg: creating the original Egg repos
+ghoulslash: totem boosts, z-moves, move animations, terrains, several item effects, abilities, and move effects.
+UltimaSoul: fixing some icon sprites, new items data, moving the repo
+Lunos: battle strings, save file, item images and palettes, save file and getting the coordinates for gen1-gen4 mons, majority of items data and pics
+ShantyTown: move animations
+mvit: ability pop up and mega evo gfx
+Doesnt: berries gfx, pokeball particles
+Cancer Fairy: coordinates, new animations, coding help, battle strings, more
+MrDollSteak: Pokedex descriptions
+Avara: item descriptions
+Kurausukun: testing, small edits and fixes
+TheLaw: move animations
+BreadCrumbs: code review
+Syreldar: testing, wrote an explanation post
+Pyredrid: automating issue creation, code review and testing
+MandL27: code review and testing, contributing features
 
-## What is ROM Hacking Hideout?
+### Others
+TheXaman - Debug Menu, Fast Nurse Joy
 
-A Discord-based ROM hacking community that has many members who hack using the disassembly and decompilation projects for Pokémon. Quite a few contributors to the original feature branches by DizzyEgg were members of ROM Hacking Hideout. You can call it RHH for short!
 
-[Click here to join the RHH Discord Server!](https://discord.gg/6CzjAG6GZk)
+## Resources
